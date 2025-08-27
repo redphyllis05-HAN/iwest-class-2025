@@ -1,0 +1,14 @@
+# Open AI library
+openai
+
+# http client
+requests
+
+# simply UI framework
+streamlit
+
+# .env utility
+python-dotenv
+
+# jupyter notbook
+jupyter
